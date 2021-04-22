@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="boibuom">
+        <item>@drawable/boi1</item>
+        <item>@drawable/boi2</item>
+        <item>@drawable/boi3</item>
+        <item>@drawable/boi4</item>
+    </integer-array>
+    <integer-array name="boiech">
+        <item>@drawable/boi2</item>
+        <item>@drawable/boi4</item>
+        <item>@drawable/boi3</item>
+        <item>@drawable/boi6</item>
+    </integer-array>
+</resources>
